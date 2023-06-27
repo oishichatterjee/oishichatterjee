@@ -12,7 +12,7 @@ I am a smart professional who is good at developing applications, databases and 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oishichatterjee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oishichatterjee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
